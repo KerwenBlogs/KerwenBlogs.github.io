@@ -19,8 +19,6 @@ export default {
   Tips: '',
   // 首页打字机文案列表
   TypeWriteList: [
-    '',
-    "",
   ],
   // 网站创建时间
   CreateTime: '2025-10-18',
@@ -113,21 +111,21 @@ export default {
     // 侧边栏广告(不填不开启)
     asideAD_Slot: ``,
     // 文章页广告(不填不开启)
-    articleAD_Slot: ``
+    articleAD_Slot: ``,
   },
   // 文章内赞赏码
   Reward: {
     // 支付宝收款码
     AliPay: '',
     // 微信收款码
-    WeChat: ''
+    WeChat: '',
   },
   // 访问网页 自动推送到搜索引擎
   SeoPush: {
     enable: false,
     serverApi: '',
-    paramsName: 'url'
+    paramsName: 'url',
   },
   // 页面阻尼滚动速度
-  ScrollSpeed: 666
+  ScrollSpeed: 666,
 }
