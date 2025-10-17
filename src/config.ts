@@ -2,7 +2,7 @@ export default {
   // 网站标题
   Title: '浮生偶记',
   // 网站地址
-  Site: 'https://kerwenblogs.github.io',
+  Site: 'https://KerwenBlogs.github.io/',
   // 网站副标题
   Subtitle: '',
   // 网站描述
